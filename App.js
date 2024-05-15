@@ -21,32 +21,37 @@ import ModalBox from './component/ModalBox';
 import PressButton from './component/PressButton';
 import Statusbar from './component/Statusbar';
 import PlatForm from './component/PlatForm';
+import Webview from './component/Webview';
+import CustomModal from './component/CustomModal';
 
 export default function App() {
 
   return (
-    <View /* style={{flex:1}} */>
-    {/* <Form/> */}
-    {/* <Flatlist/> */}
-    {/* <Map/> */}
-    {/* <Grid/> */}
-    {/* <Sectionlist/> */}
-    {/* <Loop/> */}
-    {/* <Class/> */}
-    {/* <UseEffect/> */}
-    {/* <Toggle/> */}
-    {/* <Flex/> */}
-    {/* <Button/> */}
-    {/* <Radio/> */}
-    {/* <CheckBox/> */}
-    {/* <Flatlist2/> */}
-    {/* <Radio2/> */}
-    {/* <Loader/> */}
-    {/* <ModalBox/> */}
-    {/* <PressButton/> */}
-    {/* <Statusbar/> */}
-    <PlatForm/>
-    </View>
+    <Webview/>
+    // <View style={{flex:1}}>
+    // {/* <Form/> */}
+    // {/* <Flatlist/> */}
+    // {/* <Map/> */}
+    // {/* <Grid/> */}
+    // {/* <Sectionlist/> */}
+    // {/* <Loop/> */}
+    // {/* <Class/> */}
+    // {/* <UseEffect/> */}
+    // {/* <Toggle/> */}
+    // {/* <Flex/> */}
+    // {/* <Button/> */}
+    // {/* <Radio/> */}
+    // {/* <CheckBox/> */}
+    // {/* <Flatlist2/> */}
+    // {/* <Radio2/> */}
+    // {/* <Loader/> */}
+    // {/* <ModalBox/> */}
+    // {/* <PressButton/> */}
+    // {/* <Statusbar/> */}
+    // {/* <PlatForm/> */}
+    // {/* <Webview/> */}
+    // <CustomModal/>
+    // </View>
   );
 }
 
