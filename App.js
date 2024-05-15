@@ -20,11 +20,12 @@ import Loader from './component/Loader';
 import ModalBox from './component/ModalBox';
 import PressButton from './component/PressButton';
 import Statusbar from './component/Statusbar';
+import PlatForm from './component/PlatForm';
 
 export default function App() {
 
   return (
-    <View style={{flex:1}}>
+    <View /* style={{flex:1}} */>
     {/* <Form/> */}
     {/* <Flatlist/> */}
     {/* <Map/> */}
@@ -43,7 +44,8 @@ export default function App() {
     {/* <Loader/> */}
     {/* <ModalBox/> */}
     {/* <PressButton/> */}
-    <Statusbar/>
+    {/* <Statusbar/> */}
+    <PlatForm/>
     </View>
   );
 }
