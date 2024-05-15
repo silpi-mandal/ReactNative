@@ -19,6 +19,7 @@ import Radio2 from './component/Radio2';
 import Loader from './component/Loader';
 import ModalBox from './component/ModalBox';
 import PressButton from './component/PressButton';
+import Statusbar from './component/Statusbar';
 
 export default function App() {
 
@@ -41,7 +42,8 @@ export default function App() {
     {/* <Radio2/> */}
     {/* <Loader/> */}
     {/* <ModalBox/> */}
-    <PressButton/>
+    {/* <PressButton/> */}
+    <Statusbar/>
     </View>
   );
 }
