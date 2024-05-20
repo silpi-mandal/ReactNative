@@ -27,31 +27,30 @@ import CustomModal from './component/CustomModal';
 export default function App() {
 
   return (
-    <Webview/>
-    // <View style={{flex:1}}>
-    // {/* <Form/> */}
-    // {/* <Flatlist/> */}
-    // {/* <Map/> */}
-    // {/* <Grid/> */}
-    // {/* <Sectionlist/> */}
-    // {/* <Loop/> */}
-    // {/* <Class/> */}
-    // {/* <UseEffect/> */}
-    // {/* <Toggle/> */}
-    // {/* <Flex/> */}
-    // {/* <Button/> */}
-    // {/* <Radio/> */}
-    // {/* <CheckBox/> */}
-    // {/* <Flatlist2/> */}
-    // {/* <Radio2/> */}
-    // {/* <Loader/> */}
-    // {/* <ModalBox/> */}
-    // {/* <PressButton/> */}
-    // {/* <Statusbar/> */}
-    // {/* <PlatForm/> */}
-    // {/* <Webview/> */}
-    // <CustomModal/>
-    // </View>
+    <View style={{flex:1}}>
+    {/* <Form/> */}
+    {/* <Flatlist/> */}
+    {/* <Map/> */}
+    {/* <Grid/> */}
+    {/* <Sectionlist/> */}
+    {/* <Loop/> */}
+    {/* <Class/> */}
+    {/* <UseEffect/> */}
+    {/* <Toggle/> */}
+    {/* <Flex/> */}
+    {/* <Button/> */}
+    {/* <Radio/> */}
+    {/* <CheckBox/> */}
+    {/* <Flatlist2/> */}
+    {/* <Radio2/> */}
+    {/* <Loader/> */}
+    {/* <ModalBox/> */}
+    {/* <PressButton/> */}
+    {/* <Statusbar/> */}
+    {/* <PlatForm/> */}
+    {/* <Webview/> */}
+    {/* <CustomModal/> */}
+    </View>
   );
 }
 
